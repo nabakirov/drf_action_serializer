@@ -1,0 +1,9 @@
+# Minimum Django and REST framework version
+Django==2.0.4
+djangorestframework==3.8.2
+
+# Test requirements
+
+# wheel for PyPI installs
+wheel
+twine==1.11.0
