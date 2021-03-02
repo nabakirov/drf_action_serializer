@@ -12,7 +12,7 @@ url = 'https://github.com/nabakirov/drf_mixin_tools'
 author = 'Nursultan Abakirov'
 author_email = 'nabakirov@gmail.com'
 license = 'MIT'
-version = '0.0.2'
+version = '0.0.3'
 
 
 if sys.argv[-1] == 'publish':
@@ -49,8 +49,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Natural Language :: English',
-        'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3',
         'Topic :: Internet :: WWW/HTTP',
     ]
 )
